@@ -35,7 +35,7 @@ A dynamic **Hotel Booking System** built using **PHP, MySQL, AJAX, JavaScript, H
    - Create a new database (e.g., `fernhotel`)
    - Import the provided **SQL file** (`fernhotel.sql`)
 4. Configure the database connection:
-   - Open `config.php`
+   - Open `admin/inc/db_config.php`
    - Update database credentials:
    ```php
    $host = 'localhost';
